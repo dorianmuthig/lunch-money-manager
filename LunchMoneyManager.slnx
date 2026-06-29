@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE.md" />
+    <File Path="README.md" />
+    <File Path="task.md" />
+  </Folder>
+  <Project Path="LunchMoneyManager.Console/LunchMoneyManager.Console.csproj" />
+  <Project Path="LunchMoneyManager.Library/LunchMoneyManager.Library.csproj" Id="3093c417-2e90-4b78-95e4-517743ddb2d5" />
+  <Project Path="LunchMoneyManager.Tests/LunchMoneyManager.Tests.csproj" Id="537f6d24-55b9-471e-aa2a-6fa0f1dcf32b" />
+</Solution>
