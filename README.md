@@ -13,7 +13,7 @@ I have no plans of finishing this software, and it merely serves as a demo for t
 This code is licensed under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html.en) and not intended for resale.
 
 ```
-    Lunch Money Manager, a console program to mange debts
+    Lunch Money Manager, a console program to manage debts
     Copyright (C) 2026  Dorian Muthig
 
     This program is free software: you can redistribute it and/or modify
